@@ -26,4 +26,4 @@ Caso tenha alguma sugestão ou correção, sinta-se à vontade para comentar!
 
 Agradeço sua dedicação e acompanhamento. Vamos juntos nessa jornada! 🚀
 
-Atenciosamente,[Seu Nome]
+Atenciosamente, Haelyton Maicon Stempkoski
