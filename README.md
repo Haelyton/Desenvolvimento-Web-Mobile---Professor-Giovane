@@ -20,6 +20,8 @@ Sou um estudante dedicado ao desenvolvimento back-end, com foco em Java e Spring
 
 Explore os diretórios para encontrar os projetos específicos.
 
+***Todas as suas aulas estão separadas em BRANCHS (Aula01, Aula02 etc...)***
+
 Leia os arquivos README de cada projeto para entender sua estrutura e propósito.
 
 Caso tenha alguma sugestão ou correção, sinta-se à vontade para comentar!
