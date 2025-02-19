@@ -17,8 +17,6 @@ Este espaço contém meus projetos, exercícios e aprendizados ao longo do curso
 Sou um estudante dedicado ao desenvolvimento back-end, com foco em Java e Spring Boot. Além disso, estou sempre explorando novas tecnologias para aprimorar minhas habilidades. Se houver sugestões de melhorias ou pontos a serem corrigidos, ficarei feliz em receber seu feedback!
 
 🛠️ Como navegar pelo repositório?
-
-Explore os diretórios para encontrar os projetos específicos.
 ------------------------------------------------------------------------------------
 ***Todas as suas aulas estão separadas em BRANCHS (Aula01, Aula02 etc...)***
 ------------------------------------------------------------------------------------
